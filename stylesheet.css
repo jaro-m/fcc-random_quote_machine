@@ -1,0 +1,46 @@
+.bckgnd {
+  background-color: #888;
+}
+.color1 {
+  background-color: white;
+  color: black;
+}
+.color2 {
+  color: #888;
+}
+#title {
+  color: #888;
+  font-family: "Cookie", cursive;
+  font-size: 1em;
+}
+.main {
+  width: 50em;
+  margin-left: auto;
+  margin-top: 1em;
+  border-radius: 0.5em;
+}
+.right {
+  float: right;
+}
+.icons {
+  font-size: 2em;
+  border: 0;
+  background-color: white;
+}
+#quote {
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 2em;
+  padding-top: 1em;
+}
+#author {
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 1.5em;
+  padding-right: 3em;
+  float: right;
+}
+.box {
+  border: 1px solid red;
+}
+.spacer {
+  padding-top: 2em;
+}
